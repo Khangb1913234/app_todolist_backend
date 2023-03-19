@@ -1,6 +1,6 @@
 # app_todolist_backend
 
-App helps users to search for tourist attractions and tours in Can Tho, collaborators can introduce their services (tourist attractions, tours) to customers.
+App helps users create to-do lists that they need to do
 
 - Function:
   + Create, update, delete tasks.
